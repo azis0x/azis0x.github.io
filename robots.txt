@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://azis0x.github.io/sitemap.xml
+Host: https://azis0x.github.io
